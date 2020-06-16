@@ -1,0 +1,16 @@
+Application/Domain/Name.java
+ Application.Domain.Name
+Application/Domain/Phone.java
+ Application.Domain.Phone
+Application/Domain/Contact.java
+ Application.Domain.Contact
+Application/ContactApplication.java
+ Application.ContactApplication
+Application/DAO/ContactDAO.java
+ Application.DAO.ContactDAO
+Application/Domain/Address.java
+ Application.Domain.Address
+Application/Service/ContactService.java
+ Application.Service.ContactService
+Application/Controller/ContactController.java
+ Application.Controller.ContactController
