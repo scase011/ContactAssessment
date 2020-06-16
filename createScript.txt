@@ -1,0 +1,1 @@
+CREATE table contacts_db(id int PRIMARY KEY, fname varchar(20), mname varchar(20), lname varchar(20), street varchar(20), city varchar(20), state varchar(20), zip varchar(20), home varchar(20), worknum varchar(20), mobile varchar(20), email varchar(40) UNIQUE);
